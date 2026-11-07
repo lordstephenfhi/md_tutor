@@ -6,5 +6,3 @@
 ## Challenges
 ## What problem it intends to solve
 ## Who are target users?
-
-
